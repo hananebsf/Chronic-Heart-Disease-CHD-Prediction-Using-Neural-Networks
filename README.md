@@ -1,4 +1,5 @@
-# Chronic-Heart-Disease-CHD-Prediction-Using-Neural-Networks
+# 🏥 Chronic Heart Disease (CHD) Prediction Using Neural Networks
+Using deep learning to predict the presence of CHD from clinical data.
 
 ## Overview
 
@@ -13,3 +14,10 @@ Attributes: 13 features + 1 target variable
 - Target Label:
  - 0 → No CHD
  - 1-4 → Presence of CHD (converted into binary: 1)
+
+## 📂Project Structure
+├── chd_processed_cleveland.csv     # Dataset
+
+├── README.md                       # Documentation
+
+└── code.py                         # Main script 
